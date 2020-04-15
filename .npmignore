@@ -1,0 +1,11 @@
+.vscode
+.history
+.babelrc
+.browserslistrc
+.eslintrc.js
+.npmignore
+rollup.config.js
+package-lock.json
+node_modules
+example
+src
